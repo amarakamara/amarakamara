@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?size=626&ext=jpg&ga=GA1.1.709766924.1714924746&semt=ais_user)]
+[![MasterHead](https://ibb.co/5nk1v4p)]
 <h1 align="center">Hi 👋, I'm Amara</h1>
 <h3 align="center">👨🏽‍💻Student of Computer Science and Engineering(IoT)| Mern Stack Developer | ✨Passionate about startups</h3>
 <img align="right" alt="coding" width="400" src="https://avatars.githubusercontent.com/u/122091196?v=4"/>
